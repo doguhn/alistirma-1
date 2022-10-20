@@ -1,5 +1,5 @@
 n = 0
-k = 10000
+k = 121211
 for x in range(1,121212):
     for y in range(1,121212):
         if x * y == 121212:
