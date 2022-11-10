@@ -7,4 +7,3 @@ for i in range (1,10000):
 print (e)
 
 
-print("sayıyı sonsuza yaklaştıramdım bi yerde bitirmeli yapabildim")
